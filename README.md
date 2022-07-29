@@ -3,6 +3,7 @@ Installer le menu aVip:
 Vous allez vous rendre sur le server.cfg ou resources.cfg
 
 ensure aVip
+
 insèrer le vip.sql dans votre Base de donnée
 
 Comment vous attribuer le VIP :

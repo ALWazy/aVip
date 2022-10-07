@@ -23,4 +23,4 @@ viplevel 1 = Le joueur est VIP
 - Spawn vehicule
 - Config facile
 
-1
+
